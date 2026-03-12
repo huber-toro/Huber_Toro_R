@@ -1,0 +1,12 @@
+{
+    "promedio_edad": 22.75,
+    "personas_por_ciudad": {
+        "Medellin": 2,
+        "Bogota": 1,
+        "Cali": 1
+    },
+    "mayores_22": [
+        "Carlos",
+        "Juan"
+    ]
+}
