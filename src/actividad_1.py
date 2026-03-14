@@ -50,7 +50,7 @@ class Actividad1CSV:
 
 if __name__ == "__main__":
     act1 = Actividad1CSV()
-    personas = act1.leer_csv("src/personas.csv")
+    personas = act1.leer_csv("src/evidencias/actividad_1/personas.csv")
     resultados = act1.transformar(personas)
     act1.exportar_json(resultados)
 
