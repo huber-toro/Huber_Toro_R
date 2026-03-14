@@ -8,7 +8,7 @@ import os
 
 class Actividad1CSV:
     def __init__(self):
-        # Usamos la ruta vieja que ya tenías
+        # ruta de
         self.ruta_static = "src/evidencias/actividad_1/json"
         os.makedirs(self.ruta_static, exist_ok=True)
 

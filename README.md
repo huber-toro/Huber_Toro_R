@@ -3,7 +3,6 @@
 
 **Estructuración y transformación básica de datos en Python.**
 
-
 ## Evidencia de actividad #2
 
 **Uso de Python para análisis de datos, con NumPy y visualización con Matplotlib.**
